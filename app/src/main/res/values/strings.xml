@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Cartão de Visita</string>
+    <string name="label_business_card">Cartão de Visita</string>
+    <string name="label_description_new_card">Novo Cartão de Visita</string>
+    <string name="label_nome">Nome</string>
+    <string name="label_telefone">Telefone</string>
+    <string name="label_email">Email</string>
+    <string name="label_empresa">Empresa</string>
+    <string name="label_confirmar">Gravar</string>
+    <string name="label_whatsapp">Whatsapp</string>
+    <string name="label_youtube">Youtube</string>
+    <string name="label_instagram">Instagram</string>
+    <string name="label_linkedin">Linkedin</string>
+    <string name="label_show_sucess">Cartão cadastrado com sucesso!</string>
+    <string name="label_share">Compartilhar</string>
+    <string name="label_description_old_card">Editar Cartão de Visita</string>
+    <string name="label_show_edit_sucess">Cartão de Visita Atualizado com Sucesso</string>
+</resources>
